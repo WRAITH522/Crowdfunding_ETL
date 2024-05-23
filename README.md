@@ -12,6 +12,7 @@ The instructions for this mini project are divided into the following subsection
     - A "category" column that contains only the category titles
     - The following image shows this category DataFrame:
 
+        ![alt text](category_DataFrame.png)
 2. Export the category DataFrame as `category.csv` and save it to your GitHub repository.
 
 3. Extract and transform the `crowdfunding.xlsx` Excel data to create a subcategory DataFrame that has the following columns:
@@ -21,6 +22,8 @@ The instructions for this mini project are divided into the following subsection
     - A "subcategory" column that contains only the subcategory titles
 
     - The following image shows this subcategory DataFrame:
+    
+        ![alt text](subcategory_DataFrame.png)
 4. Export the subcategory DataFrame as `subcategory.csv` and save it to your GitHub repository.
 
 ## Create the Campaign DataFrame
@@ -40,6 +43,7 @@ The instructions for this mini project are divided into the following subsection
     - The "category_id" column, with unique identification numbers matching those in the "category_id" column of the category DataFrame
     - The "subcategory_id" column, with the unique identification numbers matching those in the "subcategory_id" column of the subcategory DataFrame
     - The following image shows this campaign DataFrame:
+    ![alt text](campaign_DataFrame.png)
 2. Export the campaign DataFrame as `campaign.csv` and save it to your GitHub repository.
 
 ## Create the Contacts DataFrame
@@ -66,7 +70,7 @@ The instructions for this mini project are divided into the following subsection
     - Clean and then export the DataFrame as contacts.csv and save it to your GitHub repository.
 
 4. Check that your final DataFrame resembles the one in the following image:
-
+    ![alt text](contact_DataFrame_final.png)
 ## Create the Crowdfunding Database
 1. Inspect the four CSV files, and then sketch an ERD of the tables by using [QuickDBDLinks](https://www.quickdatabasediagrams.com/).
 
